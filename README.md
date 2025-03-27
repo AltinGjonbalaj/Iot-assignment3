@@ -9,4 +9,4 @@ Output will be some fake data sent over to my thingspeak channel. Then whatever 
 Response: 68
 
 The program will run until you cancel it.
-I have scrubbed my own API key from the repo for security reasons, should you wish to run it, replace it with your own.
+I have removed my API key, should you wish to run it, replace it with your own.
