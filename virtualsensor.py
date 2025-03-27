@@ -2,7 +2,7 @@ import random as rand
 import requests
 import time
 
-THINGSPEAK_API_KEY = "32WXDJYKOAQSI5QA"
+THINGSPEAK_API_KEY = "ADD_KEY_HERE"
 THINGSPEAK_URL = "https://api.thingspeak.com/update"
 
 def send_to_thingspeak(temp, hum, co2):
